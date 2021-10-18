@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/camera_shadow_fill"
+        android:title="btnCamera"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/nav_inbox_paper_plane"
+        android:title="btnDM"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/btnLogout"
+        android:icon="@drawable/instagram_home_outline_24"
+        android:title="logout"
+        app:showAsAction="always" />
+</menu>
